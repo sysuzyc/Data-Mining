@@ -1,0 +1,6 @@
+This week, we have three algorithm to implement. There are IBCF,slope one,and SVM.
+I have implement two algorithm IBCF and slope one.
+There are two main function.
+IBCF_main.m is the IBCF main function.
+Slope_main.m is the Slope one main function.
+The detial explain is in the function.
