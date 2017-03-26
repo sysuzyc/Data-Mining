@@ -1,0 +1,6 @@
+This code is the source code of ¡¶Fast algorithm for detecting community structure in networks¡·. 
+main.m is the main function.It load the datasets.
+FastNewman.m is the loop of the community detection.
+GetModularity.m is the function to get the modularity of the graph.
+We use the matlab function dendrogram to draw the graph.
+Finally, we can see that the datasets are cut in four communitys.
